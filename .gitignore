@@ -2,10 +2,5 @@
 __pycache__/
 *.pyc
 
-# Pyinstaller
-build/
-dist/
-+.spec
-
 # Virtual env
 venv/
