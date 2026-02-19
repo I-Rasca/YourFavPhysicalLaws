@@ -15,3 +15,7 @@ python physical_laws.py
 🛠️ Requirements
 Python 3.10+
 Tkinter (included in Python)
+
+```
+Simple project for the introductory Python
+course taught years ago at a tertiary institution (TUC-ARG).
