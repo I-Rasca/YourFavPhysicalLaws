@@ -1,7 +1,7 @@
-import tkinter as tk
+import tkinter as tk #librería gráfica (GUI)
 from tkinter import ttk, messagebox
 
-#================= DATOS =================
+#================= FÓRMULAS =================
 laws = {
     "Law of Universal Gravitationl": {
         "formula": "F = G · (m₁ · m₂) / r²",
