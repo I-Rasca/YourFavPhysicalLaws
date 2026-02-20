@@ -19,3 +19,4 @@ Tkinter (included in Python)
 ```
 **°** Simple project for the introductory Python
 course taught years ago at a tertiary institution (TUC-ARG).
+**°** With minor modifications in the current time.
