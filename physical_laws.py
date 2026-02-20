@@ -1,7 +1,7 @@
-import tkinter as tk #librería gráfica (GUI)
+import tkinter as tk #graphic dll (GUI)
 from tkinter import ttk, messagebox
 
-#================= FÓRMULAS =================
+#================= FoRMULAS =================
 laws = {
     "Law of Universal Gravitationl": {
         "formula": "F = G · (m₁ · m₂) / r²",
@@ -39,7 +39,7 @@ laws = {
 
 entradas = []
 
-#================= FUNCIONES =================
+#================= FuNCTIONS =================
 def mostrar_ley(event=None):
     for widget in frame_inputs.winfo_children():
         widget.destroy()
